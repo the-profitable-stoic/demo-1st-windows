@@ -1,0 +1,600 @@
+{
+  "business": {
+    "name": "1st Windows",
+    "phone": "+15624949069",
+    "category": "window replacement company",
+    "city": "Long Beach",
+    "state": "CA"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-red-charge",
+      "categoryGroup": "roofing",
+      "name": "Red Charge",
+      "recipeFile": "roofing/red-charge.astro",
+      "colors": {
+        "primary": "#1F3A56",
+        "primaryDark": "#152B42",
+        "primaryLight": "#D0DCE8",
+        "secondary": "#2B4C6F",
+        "accent": "#DC143C",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#1F3A56",
+        "surface": "#F5F7FA",
+        "text": "#111827",
+        "textLight": "#6B7280",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "DM Sans",
+        "headingWeight": "700",
+        "bodyFont": "Inter",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.2"
+      },
+      "shape": {
+        "borderRadius": "8px",
+        "buttonRadius": "8px",
+        "cardRadius": "12px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/red-charge"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Long Beach's Window Replacement Experts",
+      "heroSubline": "Upgrade your home with durable, energy-efficient windows. Serving Long Beach and surrounding areas with quality and precision.",
+      "aboutTitle": "Built on Integrity, Focused on Quality",
+      "aboutText": [
+        "1st Windows started with a simple mission: to provide Long Beach homeowners with reliable window replacement services they can trust. We're a family-owned business rooted in the community, and we take pride in every project we undertake.",
+        "Our approach is straightforward: honest assessments, transparent pricing, and meticulous workmanship. We believe in doing the job right the first time, using only the highest quality materials that stand up to the Southern California climate.",
+        "We're committed to giving back to the Long Beach community. We actively participate in local initiatives and prioritize eco-friendly practices to minimize our environmental impact. Your satisfaction and our community's well-being are our top priorities."
+      ],
+      "valueProps": [
+        {
+          "title": "Durable Materials",
+          "description": "Windows built to withstand Long Beach's intense UV rays and occasional Santa Ana winds."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled technicians ensure precise installation for optimal performance and longevity."
+        },
+        {
+          "title": "Energy Efficiency",
+          "description": "Reduce energy costs with windows designed to keep your home comfortable year-round."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand the unique challenges and styles of Long Beach homes."
+        }
+      ],
+      "ctaHeadline": "Get a Free Window Replacement Quote",
+      "ctaSubline": "Transform your Long Beach home with windows that enhance its beauty, comfort, and value. Contact us today!"
+    },
+    "services": [
+      {
+        "slug": "window-replacement",
+        "name": "Window Replacement",
+        "shortDescription": "Upgrade your home with energy-efficient, beautiful new windows.",
+        "description": "Replacing your windows is a significant investment, and we treat it as such. We start with a thorough assessment of your needs and preferences, considering factors like energy efficiency, architectural style, and budget. We offer a wide selection of window styles, frame materials, and glass options to perfectly complement your Long Beach home, from classic Craftsman bungalows in Belmont Shore to modern condos along Ocean Boulevard. Our experienced installers ensure a precise fit, minimizing drafts and maximizing energy savings. We handle every aspect of the project, from removing your old windows to cleaning up the job site, leaving you with a seamless and stress-free experience. We stand behind our work with a comprehensive warranty, giving you peace of mind for years to come. Living near the coast, it's important to have windows that withstand the salt air and strong sun.",
+        "process": [
+          "Step 1: Consultation and Assessment – We discuss your needs and assess your existing windows.",
+          "Step 2: Window Selection – Choose from a variety of styles, materials, and finishes.",
+          "Step 3: Professional Installation – Our experienced team ensures a precise and efficient installation.",
+          "Step 4: Final Inspection and Cleanup – We ensure your satisfaction and leave your home spotless."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Enhanced Curb Appeal",
+          "Reduced Noise Pollution"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical window replacement project take?",
+            "answer": "Most window replacement projects take between one to three days, depending on the number of windows being replaced and the complexity of the installation."
+          },
+          {
+            "question": "What types of windows are best for energy efficiency in Long Beach?",
+            "answer": "Low-E glass windows with argon gas fills are excellent choices for Long Beach homes, as they reduce heat transfer and block harmful UV rays."
+          },
+          {
+            "question": "Do you offer financing options for window replacement?",
+            "answer": "Yes, we offer flexible financing options to help make your window replacement project more affordable. Contact us to learn more about our financing plans."
+          }
+        ]
+      },
+      {
+        "slug": "vinyl-window-installation",
+        "name": "Vinyl Window Installation",
+        "shortDescription": "Durable, affordable, and energy-efficient vinyl window solutions.",
+        "description": "Vinyl windows are a popular choice for Long Beach homeowners seeking a cost-effective and low-maintenance window solution. They offer excellent energy efficiency, durability, and resistance to moisture and pests. We source our vinyl windows from leading manufacturers, ensuring superior quality and performance. Our expert installers are skilled in vinyl window installation techniques, guaranteeing a precise fit and long-lasting results. Whether you're upgrading a single window or replacing all the windows in your home, we can help you find the perfect vinyl window solution to meet your needs and budget. Vinyl windows are a great option for the budget-conscious homeowner, and they stand up well to the salty air in Long Beach.",
+        "process": [
+          "Step 1: Consultation and Measurement – We assess your needs and measure your window openings.",
+          "Step 2: Vinyl Window Selection – Choose from a range of styles and colors.",
+          "Step 3: Professional Installation – Our team ensures a proper and secure installation.",
+          "Step 4: Caulking and Sealing – We seal the windows to prevent drafts and moisture intrusion."
+        ],
+        "benefits": [
+          "Affordable Price Point",
+          "Low Maintenance",
+          "Excellent Energy Efficiency",
+          "Moisture Resistance"
+        ],
+        "faq": [
+          {
+            "question": "How long do vinyl windows typically last?",
+            "answer": "With proper care and maintenance, vinyl windows can last for 20 years or more."
+          },
+          {
+            "question": "Are vinyl windows energy efficient?",
+            "answer": "Yes, vinyl windows offer excellent insulation and can help reduce your energy bills."
+          },
+          {
+            "question": "Can vinyl windows be painted?",
+            "answer": "While it is possible to paint vinyl windows, it is not recommended, as the paint may not adhere well and can peel or chip over time."
+          }
+        ]
+      },
+      {
+        "slug": "wood-window-replacement",
+        "name": "Wood Window Replacement",
+        "shortDescription": "Enhance your home's character with beautiful and timeless wood windows.",
+        "description": "Wood windows offer a timeless elegance and natural warmth that can enhance the beauty of any Long Beach home. We specialize in wood window replacement, providing a wide selection of wood species, styles, and finishes to perfectly match your architectural style. From classic Craftsman homes in Bixby Knolls to historic Victorian residences, we can help you find the perfect wood windows to complement your home's unique character. Our skilled craftsmen ensure meticulous installation, paying close attention to detail to preserve the beauty and integrity of your home. Wood windows require more maintenance than vinyl, but the beauty and durability make it worth it.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your aesthetic preferences and architectural style.",
+          "Step 2: Wood Window Selection – Choose from a variety of wood species and finishes.",
+          "Step 3: Custom Installation – Our craftsmen ensure a precise and seamless installation.",
+          "Step 4: Finishing and Detailing – We add the finishing touches to enhance the beauty of your new windows."
+        ],
+        "benefits": [
+          "Timeless Beauty",
+          "Natural Insulation",
+          "Enhanced Home Value",
+          "Customizable Design"
+        ],
+        "faq": [
+          {
+            "question": "What type of wood is best for windows in Long Beach?",
+            "answer": "Douglas fir and redwood are excellent choices for wood windows in Long Beach, as they are naturally resistant to moisture and decay."
+          },
+          {
+            "question": "How often should wood windows be painted or stained?",
+            "answer": "Wood windows should be painted or stained every 3-5 years to protect them from the elements."
+          },
+          {
+            "question": "Are wood windows more expensive than vinyl windows?",
+            "answer": "Yes, wood windows are typically more expensive than vinyl windows due to the higher cost of materials and craftsmanship."
+          }
+        ]
+      },
+      {
+        "slug": "window-repair",
+        "name": "Window Repair",
+        "shortDescription": "Extend the life of your windows with expert repair services.",
+        "description": "Don't replace your windows if they can be repaired! We offer comprehensive window repair services to address a wide range of issues, from broken glass and damaged frames to faulty hardware and air leaks. Our experienced technicians can diagnose and repair your windows quickly and efficiently, saving you time and money. We use only high-quality replacement parts and materials to ensure long-lasting repairs. Whether you have foggy glass in your 1960s condo or a cracked window pane in your Craftsman home, we can help. Repairing your windows is a cost-effective way to improve your home's energy efficiency and curb appeal. We'll assess whether repair is the right option for you, given Long Beach's salty air and intense sun.",
+        "process": [
+          "Step 1: Inspection and Diagnosis – We identify the source of the problem.",
+          "Step 2: Repair Estimate – We provide a detailed estimate for the repair work.",
+          "Step 3: Professional Repair – Our team performs the necessary repairs.",
+          "Step 4: Quality Check – We ensure the repair is completed to your satisfaction."
+        ],
+        "benefits": [
+          "Cost Savings",
+          "Extended Window Life",
+          "Improved Energy Efficiency",
+          "Preserved Window Aesthetics"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my windows need to be repaired or replaced?",
+            "answer": "If your windows are drafty, foggy, or difficult to open and close, they may need to be repaired or replaced. A professional inspection can help you determine the best course of action."
+          },
+          {
+            "question": "Can you repair windows with broken glass?",
+            "answer": "Yes, we can replace broken glass in most types of windows."
+          },
+          {
+            "question": "How much does window repair typically cost?",
+            "answer": "The cost of window repair varies depending on the extent of the damage and the type of window. We provide free estimates for all repair work."
+          }
+        ]
+      },
+      {
+        "slug": "dual-pane-window-replacement",
+        "name": "Dual-Pane Window Replacement",
+        "shortDescription": "Maximize energy savings with dual-pane window solutions.",
+        "description": "Dual-pane windows are a great choice for Long Beach homeowners looking to improve their home's energy efficiency. These windows feature two panes of glass with an air or gas-filled space between them, providing superior insulation and reducing heat transfer. We offer a wide selection of dual-pane windows in various styles and materials to perfectly complement your home's architectural style. Our experienced installers ensure a precise fit, minimizing drafts and maximizing energy savings. Dual-pane windows are especially beneficial in Long Beach's warm climate, helping to keep your home cooler in the summer and warmer in the winter. Many older homes only have single-pane windows, so upgrading to dual-pane will make a big difference.",
+        "process": [
+          "Step 1: Energy Audit – We assess your home's energy efficiency needs.",
+          "Step 2: Dual-Pane Window Selection – Choose from a variety of styles and materials.",
+          "Step 3: Professional Installation – Our team ensures a proper and secure installation.",
+          "Step 4: Performance Testing – We verify the energy efficiency of your new windows."
+        ],
+        "benefits": [
+          "Significant Energy Savings",
+          "Reduced Noise Pollution",
+          "Improved Home Comfort",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What are the benefits of dual-pane windows compared to single-pane windows?",
+            "answer": "Dual-pane windows offer superior insulation, reduced noise pollution, and improved home comfort compared to single-pane windows."
+          },
+          {
+            "question": "What type of gas is typically used in dual-pane windows?",
+            "answer": "Argon gas is commonly used in dual-pane windows due to its excellent insulation properties."
+          },
+          {
+            "question": "Are dual-pane windows more expensive than single-pane windows?",
+            "answer": "Yes, dual-pane windows are typically more expensive than single-pane windows, but the energy savings can offset the initial cost over time."
+          }
+        ]
+      },
+      {
+        "slug": "custom-window-installation",
+        "name": "Custom Window Installation",
+        "shortDescription": "Unique window solutions tailored to your specific needs.",
+        "description": "Sometimes, standard window sizes just won't cut it. Whether you have a uniquely shaped window opening or specific design requirements, we offer custom window installation services to create the perfect windows for your Long Beach home. We work closely with you to design and install custom windows that meet your exact specifications. From arched windows to oversized picture windows, we can bring your vision to life. Our skilled craftsmen ensure meticulous installation, paying close attention to detail to create a seamless and stunning result. Custom windows can really set your house apart, especially in neighborhoods like Naples with unique architectural styles.",
+        "process": [
+          "Step 1: Design Consultation – We discuss your unique window needs and design preferences.",
+          "Step 2: Custom Window Design – We create a custom window design based on your specifications.",
+          "Step 3: Precision Manufacturing – Your windows are manufactured to exacting standards.",
+          "Step 4: Expert Installation – Our team ensures a flawless and secure installation."
+        ],
+        "benefits": [
+          "Unique Design Options",
+          "Perfect Fit",
+          "Enhanced Architectural Style",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of custom window shapes and sizes are available?",
+            "answer": "We can create custom windows in a wide range of shapes and sizes, including arched, round, trapezoidal, and oversized windows."
+          },
+          {
+            "question": "What materials can be used for custom windows?",
+            "answer": "We offer custom windows in a variety of materials, including wood, vinyl, and aluminum."
+          },
+          {
+            "question": "How long does it take to manufacture and install custom windows?",
+            "answer": "The manufacturing and installation time for custom windows varies depending on the complexity of the design and the materials used. We provide a detailed timeline during the design consultation."
+          }
+        ]
+      },
+      {
+        "slug": "window-screens",
+        "name": "Window Screen Services",
+        "shortDescription": "Keep bugs out and let the fresh Long Beach air in with our window screen services.",
+        "description": "Enjoy the ocean breeze without the unwanted guests! We offer a full range of window screen services, from new screen installation to repairs and replacements. We use durable, high-quality screen materials that can withstand the elements and keep your home bug-free. Whether you need screens for your entire home or just a few windows, we can help. We offer a variety of screen types, including standard mesh, pet-resistant screens, and solar screens to reduce glare and heat. Our experienced technicians ensure a perfect fit and secure installation. With the warm climate in Long Beach, being able to open your windows is key, and good screens make it possible.",
+        "process": [
+          "Step 1: Measurement and Assessment – We measure your window openings and assess your screen needs.",
+          "Step 2: Screen Selection – Choose from a variety of screen materials and mesh sizes.",
+          "Step 3: Custom Screen Fabrication – We fabricate your screens to the perfect size and shape.",
+          "Step 4: Professional Installation – Our team ensures a secure and seamless installation."
+        ],
+        "benefits": [
+          "Bug Protection",
+          "Improved Ventilation",
+          "Enhanced Comfort",
+          "Increased Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What types of window screen materials do you offer?",
+            "answer": "We offer a variety of window screen materials, including fiberglass, aluminum, and pet-resistant screens."
+          },
+          {
+            "question": "Can you repair damaged window screens?",
+            "answer": "Yes, we can repair damaged window screens quickly and efficiently."
+          },
+          {
+            "question": "How much does it cost to replace a window screen?",
+            "answer": "The cost of replacing a window screen varies depending on the size and material. We provide free estimates for all screen services."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Los Angeles",
+        "slug": "los-angeles-ca",
+        "state": "CA",
+        "content": "1st Windows is proud to offer window replacement services to the residents of Los Angeles, California. From the iconic Hollywood Hills to the vibrant downtown area, we understand the diverse architectural styles that make Los Angeles unique. Many homes in Los Angeles feature beautiful 1920s Spanish Colonial Revival architecture, and we have extensive experience working with these types of homes, ensuring that your new windows complement the existing aesthetic. We offer a wide range of window styles and materials to suit any home and budget.\n\nLos Angeles experiences a warm, dry climate year-round, making energy-efficient windows a smart investment. Our energy-efficient windows will help you save on your energy bills while keeping your home comfortable. Whether you're looking to replace a single window or upgrade all the windows in your home, 1st Windows is here to provide you with quality products and expert installation.",
+        "localContext": "Los Angeles is known for its diverse architecture, including many homes with 1920s Spanish Colonial Revival designs, and a consistently warm, dry climate.",
+        "nearbyAreas": [
+          "Beverly Hills",
+          "Santa Monica",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Pasadena",
+        "slug": "pasadena-ca",
+        "state": "CA",
+        "content": "1st Windows provides top-notch window replacement services to homeowners in Pasadena, California. Known for its beautiful Craftsman bungalows built in the 1910s-30s, Pasadena presents unique challenges and opportunities when it comes to window replacement. We have extensive experience working with these historic homes, ensuring that our window replacements maintain the architectural integrity of your property.\n\nPasadena's warm, dry climate makes energy-efficient windows a must-have. Our windows are designed to keep your home cool in the summer and warm in the winter, reducing your energy costs and improving your comfort. From single-hung to casement windows, we offer a wide variety of styles to match your home's aesthetic.",
+        "localContext": "Pasadena is characterized by its many 1910s-30s Craftsman bungalows and a warm, dry climate, requiring careful consideration during window replacement.",
+        "nearbyAreas": [
+          "Altadena",
+          "San Marino",
+          "South Pasadena"
+        ]
+      },
+      {
+        "city": "Irvine",
+        "slug": "irvine-ca",
+        "state": "CA",
+        "content": "1st Windows is dedicated to providing high-quality window replacement services to the residents of Irvine, California. As a master-planned community with homes primarily built from the 1970s to the present, Irvine features a variety of modern architectural styles. We offer a wide selection of window types and styles to perfectly complement these homes.\n\nIrvine's warm, dry climate means that energy efficiency is a key consideration for homeowners. Our energy-efficient windows can help you save money on your energy bills while also keeping your home comfortable year-round. We are committed to providing exceptional service and quality workmanship to all of our customers in Irvine.",
+        "localContext": "Irvine's master-planned community homes, built from the 1970s onward, benefit from energy-efficient window solutions due to the warm, dry climate.",
+        "nearbyAreas": [
+          "Newport Beach",
+          "Tustin",
+          "Lake Forest"
+        ]
+      },
+      {
+        "city": "Santa Clarita",
+        "slug": "santa-clarita-ca",
+        "state": "CA",
+        "content": "1st Windows is proud to serve the window replacement needs of Santa Clarita, California. Known for its newer master-planned communities developed from the 1990s to the 2020s, Santa Clarita offers a wide variety of modern home styles. We have a large selection of window styles to fit any home, from traditional to contemporary.\n\nThe warm, dry climate of Santa Clarita makes energy-efficient windows a wise investment. Our windows help to reduce energy costs and keep your home comfortable all year long. We are committed to providing outstanding service and top-quality products to all of our customers in Santa Clarita.",
+        "localContext": "Santa Clarita, with its newer master-planned communities from the 1990s-2020s, needs window solutions that match modern designs and provide energy efficiency in a warm, dry climate.",
+        "nearbyAreas": [
+          "Valencia",
+          "Canyon Country",
+          "Saugus"
+        ]
+      },
+      {
+        "city": "Torrance",
+        "slug": "torrance-ca",
+        "state": "CA",
+        "content": "1st Windows is your trusted partner for window replacement services in Torrance, California. Torrance is characterized by its many post-war homes built in the 1950s and 1960s. We understand the unique needs of these homes and offer window solutions that maintain their original charm while improving energy efficiency.\n\nTorrance's warm, dry climate makes energy-efficient windows a valuable addition to any home. Our windows are designed to reduce energy consumption and keep your home comfortable year-round. We are dedicated to providing exceptional service and top-quality products to all of our customers in Torrance.",
+        "localContext": "Torrance, with its abundance of 1950s-60s post-war homes, benefits from window replacements that enhance both style and energy efficiency in a warm, dry climate.",
+        "nearbyAreas": [
+          "Redondo Beach",
+          "Carson",
+          "Gardena"
+        ]
+      },
+      {
+        "city": "Long Beach",
+        "slug": "long-beach-ca",
+        "state": "CA",
+        "content": "1st Windows is your local expert for window replacement in Long Beach, California. We understand the unique blend of architectural styles found throughout Long Beach, from historic craftsman homes to modern beachfront properties. Our team is experienced in providing window solutions that complement the existing character of your home while enhancing its energy efficiency and curb appeal.\n\nLong Beach enjoys a mild, Mediterranean climate, making energy-efficient windows a smart investment for homeowners. Our high-performance windows help regulate indoor temperatures, reduce energy consumption, and create a more comfortable living environment. We offer a wide range of window styles and materials to suit any home and budget, ensuring that you find the perfect fit for your needs.",
+        "localContext": "Long Beach features a diverse range of architectural styles and a mild climate, making energy-efficient window replacements a valuable investment.",
+        "nearbyAreas": [
+          "Lakewood",
+          "Signal Hill",
+          "Carson"
+        ]
+      },
+      {
+        "city": "Anaheim",
+        "slug": "anaheim-ca",
+        "state": "CA",
+        "content": "1st Windows is pleased to offer window replacement services to the residents of Anaheim, California. With a diverse range of homes, from older neighborhoods to newer developments, Anaheim offers a variety of window replacement needs. We offer a wide range of window styles and materials to suit any home and budget.\n\nAnaheim's warm, dry climate makes energy-efficient windows a smart investment for homeowners. Our energy-efficient windows will help you save on your energy bills while keeping your home comfortable. Whether you're looking to replace a single window or upgrade all the windows in your home, 1st Windows is here to provide you with quality products and expert installation.",
+        "localContext": "Anaheim's warm climate and variety of home styles make energy-efficient and aesthetically pleasing window replacement crucial.",
+        "nearbyAreas": [
+          "Fullerton",
+          "Orange",
+          "Garden Grove"
+        ]
+      },
+      {
+        "city": "Huntington Beach",
+        "slug": "huntington-beach-ca",
+        "state": "CA",
+        "content": "1st Windows is proud to provide window replacement services to Huntington Beach, California. Known as Surf City USA, Huntington Beach features a mix of beach bungalows and modern homes. We offer window solutions that are durable, stylish, and energy-efficient, perfect for coastal living.\n\nThe mild climate of Huntington Beach makes energy-efficient windows a great investment. Our windows help maintain comfortable indoor temperatures and reduce energy consumption. We offer a variety of window styles to complement any home's design, from classic to contemporary.",
+        "localContext": "Huntington Beach's coastal environment and varied home styles require durable and energy-efficient window solutions.",
+        "nearbyAreas": [
+          "Costa Mesa",
+          "Fountain Valley",
+          "Westminster"
+        ]
+      },
+      {
+        "city": "Riverside",
+        "slug": "riverside-ca",
+        "state": "CA",
+        "content": "1st Windows provides comprehensive window replacement services to the residents of Riverside, California. With a mix of historic homes and newer developments, Riverside presents a variety of window replacement needs. We understand the unique styles and requirements of homes in Riverside, and we offer a wide range of window options to suit any home and budget.\n\nRiverside experiences a warm, dry climate, making energy-efficient windows especially important. Our energy-efficient windows help to keep your home cool in the summer and warm in the winter, reducing your energy costs and improving your comfort. We are committed to providing exceptional service and top-quality products to all of our customers in Riverside.",
+        "localContext": "Riverside's mix of historic and modern homes, combined with its warm climate, necessitates energy-efficient and stylistically appropriate window replacements.",
+        "nearbyAreas": [
+          "Moreno Valley",
+          "Corona",
+          "Jurupa Valley"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Window Replacement",
+        "text": "1st Windows did an amazing job replacing all the windows in my Belmont Shore home. The installers were professional, efficient, and cleaned up everything perfectly. I can already feel the difference in my energy bills!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David L.",
+        "rating": 4,
+        "service": "Vinyl Window Installation",
+        "text": "I had 1st Windows install vinyl windows in my rental property. The price was fair, and the installation was quick. There was a small issue with one of the windows, but they came back promptly and fixed it. Great service!",
+        "date": "2024-11-20"
+      },
+      {
+        "name": "Jessica K.",
+        "rating": 5,
+        "service": "Window Repair",
+        "text": "I thought I needed to replace my window, but 1st Windows was able to repair it for a fraction of the cost. Honest and reliable service. Highly recommend!",
+        "date": "2024-09-01"
+      },
+      {
+        "name": "Robert B.",
+        "rating": 5,
+        "service": "Dual-Pane Window Replacement",
+        "text": "We replaced our old single-pane windows with dual-pane windows from 1st Windows. The difference is night and day! Our home is much quieter and more comfortable. The team was professional and courteous.",
+        "date": "2025-01-10"
+      },
+      {
+        "name": "Susan M.",
+        "rating": 4,
+        "service": "Custom Window Installation",
+        "text": "1st Windows installed a custom arched window in our living room. It's absolutely beautiful! The process was a bit longer than expected, but the end result was worth it. Great craftsmanship!",
+        "date": "2024-07-05"
+      },
+      {
+        "name": "Tom P.",
+        "rating": 5,
+        "service": "Window Screen Services",
+        "text": "I needed new screens for all my windows. 1st Windows came out and measured everything, and the new screens fit perfectly. No more bugs getting into my house!",
+        "date": "2024-05-12"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "1st Windows | Long Beach Window Replacement",
+        "description": "Reliable window replacement in Long Beach CA. Expert installation, energy-efficient windows, and local service. Free quotes!"
+      },
+      "about": {
+        "title": "About 1st Windows | Long Beach CA",
+        "description": "Learn about 1st Windows, a trusted window replacement company in Long Beach. Family-owned, quality-focused, and community-driven."
+      },
+      "services": {
+        "title": "1st Windows | Window Services",
+        "description": "Window replacement, vinyl windows, wood windows, and more in Long Beach CA. Expert window repair and installation services."
+      },
+      "contact": {
+        "title": "Contact 1st Windows | Long Beach CA",
+        "description": "Contact 1st Windows for window replacement and repair services in Long Beach. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "1st Windows | Customer Reviews",
+        "description": "Read reviews from satisfied 1st Windows customers in Long Beach CA. See why we're a trusted window replacement company."
+      },
+      "service-areas": {
+        "title": "1st Windows Service Areas",
+        "description": "Window replacement and repair services in Long Beach, Los Angeles, Pasadena, Irvine, Santa Clarita, and Torrance."
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "window-replacement": "/images/service-window-replacement.webp",
+      "vinyl-window-installation": "/images/service-vinyl-window-installation.webp",
+      "wood-window-replacement": "/images/service-wood-window-replacement.webp",
+      "window-repair": "/images/service-window-repair.webp",
+      "dual-pane-window-replacement": "/images/service-dual-pane-window-replacement.webp",
+      "custom-window-installation": "/images/service-custom-window-installation.webp",
+      "window-screens": "/images/service-window-screens.webp"
+    },
+    "servicesResponsive": {
+      "window-replacement": {
+        "src": "/images/service-window-replacement.webp",
+        "srcset": "/images/service-window-replacement-400w.webp 400w, /images/service-window-replacement-800w.webp 800w, /images/service-window-replacement-1200w.webp 1200w, /images/service-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "vinyl-window-installation": {
+        "src": "/images/service-vinyl-window-installation.webp",
+        "srcset": "/images/service-vinyl-window-installation-400w.webp 400w, /images/service-vinyl-window-installation-800w.webp 800w, /images/service-vinyl-window-installation-1200w.webp 1200w, /images/service-vinyl-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "wood-window-replacement": {
+        "src": "/images/service-wood-window-replacement.webp",
+        "srcset": "/images/service-wood-window-replacement-400w.webp 400w, /images/service-wood-window-replacement-800w.webp 800w, /images/service-wood-window-replacement-1200w.webp 1200w, /images/service-wood-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-repair": {
+        "src": "/images/service-window-repair.webp",
+        "srcset": "/images/service-window-repair-400w.webp 400w, /images/service-window-repair-800w.webp 800w, /images/service-window-repair-1200w.webp 1200w, /images/service-window-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "dual-pane-window-replacement": {
+        "src": "/images/service-dual-pane-window-replacement.webp",
+        "srcset": "/images/service-dual-pane-window-replacement-400w.webp 400w, /images/service-dual-pane-window-replacement-800w.webp 800w, /images/service-dual-pane-window-replacement-1200w.webp 1200w, /images/service-dual-pane-window-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "custom-window-installation": {
+        "src": "/images/service-custom-window-installation.webp",
+        "srcset": "/images/service-custom-window-installation-400w.webp 400w, /images/service-custom-window-installation-800w.webp 800w, /images/service-custom-window-installation-1200w.webp 1200w, /images/service-custom-window-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "window-screens": {
+        "src": "/images/service-window-screens.webp",
+        "srcset": "/images/service-window-screens-400w.webp 400w, /images/service-window-screens-800w.webp 800w, /images/service-window-screens-1200w.webp 1200w, /images/service-window-screens.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}

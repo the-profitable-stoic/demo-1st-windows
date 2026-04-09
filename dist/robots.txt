@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-1st-windows.dream-surge.com/sitemap-index.xml
